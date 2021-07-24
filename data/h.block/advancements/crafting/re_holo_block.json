@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "h.block:re_holo_block"
+      }
+    }
+  },
+  "rewards": {
+    "function": "h.block:craft/holo_block"
+  }
+}

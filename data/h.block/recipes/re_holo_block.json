@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#G#",
+        "GEG",
+        "#G#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:quartz"
+        },
+        "G": {
+            "item": "minecraft:glass"
+        },
+        "E": {
+            "item": "minecraft:ender_pearl"
+        }
+    },
+    "result": {
+        "item": "minecraft:chest",
+        "count": 1
+    }
+}
